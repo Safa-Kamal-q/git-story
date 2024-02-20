@@ -1,4 +1,4 @@
-Once upon a time, in a village named "Init", lived a brave adventurer named Git.
+Once upon a time, in a village named "Init", lived a brave adventurer named Git....
 Git was well-known for his curiosity and eagerness to learn.
 He had one dream - to explore the mysterious world of Version Control.
 With the Branch Medallion in hand, Git transformed Init into a thriving village of collaboration, where every developer could effortlessly branch into innovation, merge ideas seamlessly, and script their own coding adventures.
